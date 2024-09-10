@@ -1,0 +1,49 @@
+customer_id,gender,household_income,purchase_price,model_name,model_base_price,brand_name
+1,Male,120000,24000,Hat,22000,Supreme
+2,Female,60000,121300,F12 Berlinetta,110000,Ferrari
+3,Male,24000,26000,The Brunette,25000,Cover Squirrel
+5,Female,200000,33000,Extra,30000,Boujiee
+6,Female,120000,17200,Orange,15000,Yellow
+7,Male,168000,23108,Jetta,20000,Volkswagen
+8,Female,139000,67500,Nexo,59000,Hyundai
+9,Male,68000,44936,Golf R,39800,Volkswagen
+10,Female,51000,28135,Impreza,22000,Subaru
+11,Male,129000,26608,Civic,22000,Honda
+12,Male,36000,243160,Portofino,210000,Ferrari
+13,Male,124000,22047,Elantra,19000,Hyundai
+14,Female,103000,71336,Expedition,61700,Ford
+15,Female,60000,22386,Cruze,18000,Chevrolet
+16,Male,84000,83496,Bronco Raptor,68400,Ford
+17,Male,101000,22873,Cruze,18000,Chevrolet
+18,Male,60000,25439,Focus,21000,Ford
+19,Male,144000,32907,Accord,27500,Honda
+20,Female,148000,31029,Sonata,25000,Hyundai
+21,Male,177000,44978,A4,40000,Audi
+22,Female,141000,43868,Golf R,39800,Volkswagen
+23,Male,47000,22766,Elantra,19000,Hyundai
+24,Male,114000,28429,Altima,24000,Nissan
+25,Female,76000,101988,Taycan Cross Turismo,92500,Porsche
+26,Female,146000,27122,Altima,24000,Nissan
+27,Male,88000,24455,Corolla,20000,Toyota
+28,Female,131000,23677,Optima,21000,Kia
+29,Male,24000,114246,Taycan Cross Turismo,92500,Porsche
+30,Female,38000,55594,Wrangler 4xe,47200,Jeep
+31,Male,130000,67365,S4 Prestige,59800,Audi
+32,Female,108000,31627,Mustang,27000,Ford
+33,Female,84000,46652,A4,40000,Audi
+34,Female,172000,28762,Corolla Cross,24000,Toyota
+35,Male,62000,25541,3,21000,Mazda
+36,Female,195000,29847,Fusion,27000,Ford
+37,Male,58000,48462,A4,40000,Audi
+38,Female,88000,78017,Expedition,61700,Ford
+39,Male,134000,26763,3,21000,Mazda
+40,Male,48000,34572,Passat,29500,Volkswagen
+41,Female,91000,44562,IS,39000,Lexus
+42,Male,146000,77615,Expedition,61700,Ford
+43,Male,118000,28585,Trax,24000,Chevrolet
+44,Male,124000,34558,Camry,28000,Toyota
+45,Male,98000,72669,EV9 GT-Line,64700,Kia
+46,Male,26000,31781,Accord,27500,Honda
+47,Male,53000,138711,S8,108500,Audi
+48,Female,176000,29597,Altima,24000,Nissan
+49,Female,109000,29791,Ranger,24300,Ford
