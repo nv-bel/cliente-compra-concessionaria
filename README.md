@@ -6,6 +6,8 @@ Projeto de integracao e analise de dados utilizando SQLite e Pandas, com foco no
 
 Este projeto trabalha com um banco de dados SQLite (`Car_Database.db`) projetado para lidar com as operacoes diarias de uma empresa automobilistica. O banco fornece funcionalidades para visualizar transacoes de concessionarios, rastrear inventario de carros e manter modelos e opções disponíveis.
 
+![Modelagem do banco de Dados](db_modelagem.png)
+
 A partir desse banco, duas tabelas são combinadas via INNER JOIN utilizando IDs em comum, e os dados resultantes são exportados para CSV. Em seguida, o CSV é carregado com Pandas para limpeza, pré-processamento e análise estatística, com visualizacões geradas via Matplotlib e Seaborn.
 
 ## Estrutura do Projeto
